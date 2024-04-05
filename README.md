@@ -1,4 +1,4 @@
-<p align="center"><font color="#6495ED"><h2>Olá, eu sou a Tirso Oliveira, estudante de programação !!!</h2></font></p>
+<p align="center"><font color="#6495ED"><h2>Olá! eu sou a Tirso Oliveira, estudante de programação !!!</h2></font></p>
 
 Estou estudando Python, HTML e CSS. Se você quiser acompanhar meu progresso ou se conectar, fique à vontade para me encontrar no LinkedIn.
 
