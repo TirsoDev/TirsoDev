@@ -17,3 +17,25 @@
   
   
 </div>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  @keyframes bounce {
+    0% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0); }
+  }
+  .animated-text {
+    animation: bounce 2s infinite;
+    color: #6495ED;
+  }
+</style>
+</head>
+<body>
+  <p align="center"><h2 class="animated-text">Olá, eu sou a Tiso Oliveira, estudante de programação !!!</h2></p>
+</body>
+</html>
