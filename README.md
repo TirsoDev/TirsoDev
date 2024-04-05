@@ -1,4 +1,4 @@
-## <p align="center" style="color: #6495ED">Olá, eu sou a Tiso Oliveira, estudante de programação !!!</p>
+<p align="center"><font color="#6495ED"><h2>Olá, eu sou a Tiso Oliveira, estudante de programação !!!</h2></font></p>
 
 <div style="display: inline_block"><br>
   
