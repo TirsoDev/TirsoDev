@@ -12,10 +12,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 
 </div>
 
@@ -50,6 +47,10 @@
 
 ---
 
+## 🌐 Conecte-se comigo  
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <a href="https://www.linkedin.com/in/tirso-oliveira" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
