@@ -27,10 +27,6 @@
   <img src="https://streak-stats.demolab.com?user=TirsoDev&theme=radical&border_radius=8" alt="GitHub Streak" height="160"/>
 </p>
 
-<p align="center">
-  <!-- Troféus do GitHub -->
-  <img src="https://github-profile-trophy.vercel.app/?username=TirsoDev&theme=radical&no-frame=true&row=1&column=6" alt="Troféus GitHub"/>
-</p>
 
 <p align="center">
   <!-- Gráfico de atividade -->
