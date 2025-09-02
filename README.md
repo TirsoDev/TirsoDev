@@ -28,16 +28,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TirsoDev&layout=compact&theme=radical" alt="Linguagens mais usadas" height="160"/>
 </p>
 
+---
+
+## 👨‍💻 Sobre mim  
+
+💻 Desenvolvedor formado em ADS (Belas Artes)  
+📊 Experiência em software, dados e suporte em TI  
+⚡ Tecnologias: Python | JavaScript | SQL | HTML | CSS  
+🎓 Certificações: Google Data Analytics, SQL Avançado, JS e Python  
+🚀 Apaixonado por tecnologia, aprendizado contínuo e criação de soluções com impacto positivo  
 
 ---
 
-## :
+## 🌐 Conecte-se comigo  
 
-💻 Desenvolvedor formado em ADS (Belas Artes)
-📊 Experiência em software, dados e suporte em TI
-⚡ Tecnologias: Python | JavaScript | SQL | HTML | CSS
-🎓 Certificações: Google Data Analytics, SQL Avançado, JS e Python
-🚀 Apaixonado por tecnologia, aprendizado contínuo e criação de soluções com impacto positivo**  
+<p align="center">
+  <a href="https://www.linkedin.com/in/tirso-oliveira" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
