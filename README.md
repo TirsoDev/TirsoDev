@@ -1,23 +1,46 @@
-<p align="center"><font color="#6495ED"><h2>Olá! eu sou Tirso Oliveira, estudante de programação !!!</h2></font></p>
+# 👋 Olá, eu sou o Tirso Oliveira  
 
-Estou estudando Python, HTML e CSS. Se você quiser acompanhar meu progresso ou se conectar, fique à vontade para me encontrar no LinkedIn.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=💻+Desenvolvedor+de+Soluções+em+TI;🚀+Entusiasta+em+IA+e+Big+Data;📊+Amante+de+Dados+e+Automação;🌍+Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+</p>
 
-  
-<div style="display: inline_block"><br>
-  
- <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-</div>
-  
-  ##
+---
 
-<div> 
-  
-  <a href="https://www.linkedin.com/in/tirso-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  
+## 🚀 Tecnologias & Ferramentas  
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+
 </div>
 
+---
+
+## 📊 Estatísticas do GitHub  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TirsoDev&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TirsoDev&layout=compact&theme=radical" alt="Linguagens mais usadas" height="160"/>
+</p>
+
+
+---
+
+## :
+
+💻 Desenvolvedor formado em ADS (Belas Artes)
+📊 Experiência em software, dados e suporte em TI
+⚡ Tecnologias: Python | JavaScript | SQL | HTML | CSS
+🎓 Certificações: Google Data Analytics, SQL Avançado, JS e Python
+🚀 Apaixonado por tecnologia, aprendizado contínuo e criação de soluções com impacto positivo**  
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
