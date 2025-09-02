@@ -22,6 +22,10 @@
 
 ## 📊 Estatísticas do GitHub  
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TirsoDev&theme=radical&no-frame=true&row=1&column=6" alt="Troféus GitHub"/>
+</p>
+
 
 
 <p align="center">
