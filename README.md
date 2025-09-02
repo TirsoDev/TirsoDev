@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Tirso Oliveira  
+# 👋 Olá, eu sou Tirso Oliveira  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=💻+Desenvolvedor+de+Soluções+em+TI;🚀+Entusiasta+em+IA;📊+Amante+de+Dados+e+Automação;🌍+Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
