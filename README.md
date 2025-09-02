@@ -23,13 +23,18 @@
 ## 📊 Estatísticas do GitHub  
 
 <p align="center">
+  <!-- Dias seguidos de contribuição -->
+  <img src="https://streak-stats.demolab.com?user=TirsoDev&theme=radical&border_radius=8" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+  <!-- Troféus do GitHub -->
   <img src="https://github-profile-trophy.vercel.app/?username=TirsoDev&theme=radical&no-frame=true&row=1&column=6" alt="Troféus GitHub"/>
 </p>
 
-
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TirsoDev&layout=compact&theme=radical" alt="Linguagens mais usadas" height="160"/>
+  <!-- Gráfico de atividade -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TirsoDev&bg_color=000000&color=00F7FF&line=FF0080&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de atividade"/>
 </p>
 
 ---
