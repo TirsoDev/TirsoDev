@@ -21,6 +21,11 @@
 ## 📊 Estatísticas do GitHub  
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TirsoDev&bg_color=000000&color=00F7FF&line=FF0080&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de atividade"/>
+</p>
+
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TirsoDev&layout=compact&theme=radical" alt="Linguagens mais usadas" height="160"/>
 </p>
 
