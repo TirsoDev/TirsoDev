@@ -21,7 +21,6 @@
 ## 📊 Estatísticas do GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TirsoDev&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TirsoDev&layout=compact&theme=radical" alt="Linguagens mais usadas" height="160"/>
 </p>
 
@@ -37,15 +36,7 @@
 
 ---
 
-## 🌐 Conecte-se comigo  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tirso-oliveira" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-  </a>
-</p>
-
----
 
 ## 🌐 Conecte-se comigo  
 
