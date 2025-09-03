@@ -69,24 +69,4 @@
   </a>
 </p>
 
-<p align="center">
-  <!-- Views e Followers -->
-  ![Profile Views](https://komarev.com/ghpvc/?username=TirsoDev&color=blueviolet)
-  ![Followers](https://img.shields.io/github/followers/TirsoDev?label=Followers&style=social)
-</p>
 
----
-
-## 🎮 Extras  
-
-<p align="center">
-  <!-- Snake Game -->
-  ![Snake animation](https://github.com/TirsoDev/TirsoDev/blob/output/github-contribution-grid-snake.svg)
-</p>
-
-<p align="center">
-  <!-- Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Inspirational Quote"/>
-</p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="2px">
