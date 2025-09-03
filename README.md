@@ -31,9 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TirsoDev&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="160"/>
 </p>
 
-<p align="center">
-  <!-- Nome animado -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=36&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=300&lines=TIRSODEV" alt="TIRSODEV animado" height="160"/>
+![Snake animation](https://github.com/TirsoDev/TirsoDev/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
