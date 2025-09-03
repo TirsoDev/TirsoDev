@@ -31,8 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TirsoDev&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="160"/>
 </p>
 
-![Snake animation](https://github.com/TirsoDev/TirsoDev/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 👨‍💻 Sobre mim  
