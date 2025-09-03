@@ -7,6 +7,7 @@
 ---
 
 ## 🚀 Tecnologias & Ferramentas  
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -17,30 +18,33 @@
 
 </div>
 
-
 ---
 
 ## 📊 Estatísticas do GitHub  
-
-
 
 <p align="center">
   <!-- Gráfico de atividade -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TirsoDev&bg_color=000000&color=00F7FF&line=FF0080&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de atividade"/>
 </p>
 
+<p align="center">
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=TirsoDev&theme=radical&border_radius=8" alt="GitHub Streak" height="160"/>
+  <!-- Linguagens -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TirsoDev&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="160"/>
+</p>
+
 ---
 
 ## 👨‍💻 Sobre mim  
 
-💻 Desenvolvedor formado em ADS (Belas Artes)  
-📊 Experiência em software, dados e suporte em TI  
-⚡ Tecnologias: Python | JavaScript | SQL | HTML | CSS  
-🎓 Certificações: Google Data Analytics, SQL Avançado, JS e Python  
-🚀 Apaixonado por tecnologia, aprendizado contínuo e criação de soluções com impacto positivo  
+- 💻 **Formação:** Análise e Desenvolvimento de Sistemas (Belas Artes)  
+- 📊 **Experiência:** Software, dados e suporte em TI  
+- ⚡ **Tecnologias:** Python | JavaScript | SQL | HTML | CSS  
+- 🎓 **Certificações:** Google Data Analytics, SQL Avançado, JavaScript e Python  
+- 🚀 **Interesses:** Tecnologia, aprendizado contínuo e criação de soluções com impacto positivo  
 
 ---
-
 
 
 ## 🌐 Conecte-se comigo  
