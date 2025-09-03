@@ -22,13 +22,7 @@
 
 ## 📊 Estatísticas do GitHub  
 
-<p align="center">
-  <!-- Gráfico de streaks -->
-  <img src="https://streak-stats.demolab.com?user=TirsoDev&theme=radical&border_radius=8" alt="GitHub Streak" width="400" height="200" />
 
-  <!-- Gráfico de linguagens -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TirsoDev&layout=compact&theme=radical&border_radius=8" alt="Top Languages" width="400" height="400" />
-</p>
 
 <p align="center">
   <!-- Gráfico de atividade -->
